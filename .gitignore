@@ -58,3 +58,5 @@ helpsearch*/
 ########################
 *.tab
 
+DeeplearningApproach/input/*.npy
+DeeplearningApproach/input/*.pickle
